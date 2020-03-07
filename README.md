@@ -6,6 +6,7 @@ Made by [a55mage](https://github.com/a55mage) / [Daichip](https://github.com/dai
 - 4 ready to use vibration patterns
 - Easy vibration pattern creation
 - Automatic haptic feedback generation from audio file
+- Works with Oculus, HTC Vive, Valve Index, Mixed Reality HMD... you name it
 
 # ❔ How to setup
 1) Install the Steam VR plugin for unity and set it up
