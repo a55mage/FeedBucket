@@ -1,5 +1,7 @@
 # FeedBucket
 A free Haptic Feedback library for VR applications in Unity
+
+Made by [a55mage](https://github.com/a55mage) / [Daichip](https://github.com/daichip) / [Tizzu](https://github.com/tizzu)
 # ❕ Features
 - 4 ready to use vibration patterns
 - Easy vibration pattern creation
