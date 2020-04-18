@@ -22,7 +22,6 @@ To make your own haptic pattern you only need to know 3 things:
 1) Go to FeedLibrary to create a list of Feed, insert feeds in it and create a corresponding boolean
 2) Go to FeedManager and copy/paste the commented code in the right place and edit it
 3) The library will execute the desired feedback when the corresponding boolean is set to true and reset it to false when the feedback ends
-# Why?
-Because
+
 # 💬 Got questions?
 Feel free to ask
